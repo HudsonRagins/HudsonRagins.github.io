@@ -1,0 +1,83 @@
+body {
+	font-size: 16px;
+	background-color: #000000;
+	color: #afafaf;
+	margin: 7.5vh;
+	font-family: 'Ubuntu', sans-serif;
+	display: flex;
+	flex-direction: column;
+	max-width: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+h1, h2 { 
+	color: #37ddff;
+	font-family: 'Shojumaru', cursive;
+	text-align: center;
+}
+
+h3 {
+	color: #34d89c;
+	text-decoration: bold;
+	font-family: 'Trade Winds', cursive;
+}
+
+h4, h5, h6 {	
+	font-family: 'Pinyon Script', cursive;
+	color: #4785c6;
+	text-decoration: italic;
+}
+
+a:link {
+	color: #42ebf4 ;
+}
+
+.pageTop {
+	text-decoration: bold;
+	background-color: #273238;
+	border-radius: 20px;
+	margin-bottom: 1vh;
+}
+
+.oneLineIntro {
+	text-align: center;
+}
+
+.content {
+	width: 65vw;
+	max-width: 980px;
+}
+
+.embedVideo {
+	display: flex;
+	max-width: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+img {
+	width: 200px;
+}
+
+.centerImage {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.etude {
+	color: #ff0000;
+}
+
+.other {
+	color: #00ff00;
+}
+
+.modern {
+	color: #0000ff;
+}
+
+.emotional {
+	color: #a100ff;
+}
